@@ -4,7 +4,7 @@ This is my CSC 256 repository where I'll be keeping all my assignments, projects
 
 ## What This Class Is About
 
-CSC 256 is focused on Software Quality Assurance, which is basically learning how to make sure software actually works properly before it gets released. We're covering all the principles and processes of software testing, including different testing technologies, static techniques, test design techniques, and test management. I'll be working on projects that involve things like Test Driven Development (TDD), API testing, automated testing, and even some DevOps stuff like CI/CD. The goal is to learn how to design and implement proper testing plans throughout the entire software development process, which is super important for any programming job.
+This course covers the principles, concepts and processes of software testing. Topics include testing technologies, static techniques, test design techniques, and test management. The goal is to learn how to design and implement proper testing plans throughout the entire software development process.
 
 ## How I'm Organizing Everything
 
